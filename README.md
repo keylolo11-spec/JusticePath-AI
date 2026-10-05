@@ -13,10 +13,8 @@ JusticePath AI addresses this problem by providing students with an AI-powered a
 Target Users
 
 JusticePath AI is designed for:
-
-* Criminal Justice students
-* Criminology students
-* Psychology students
-* Students interested in criminal psychology
-* Students working on criminal justice research
-* College students looking for study and writing support
+Criminal Justice students
+Criminology students
+Psychology students
+Students interested in criminal psychology
+ Students working on criminal justice research
